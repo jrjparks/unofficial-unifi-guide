@@ -1,10 +1,7 @@
 [book]
 authors = ["James Parks"]
-description = "Documenting my learning about UniFi"
+description = "Documenting my learning about the UniFi SDN"
 language = "en"
 multilingual = false
 src = "src"
-title = "About UniFi"
-
-[output.html]
-[output.linkcheck]  # enable the "mdbook-linkcheck" renderer
+title = "The unofficial guide to UniFi"
