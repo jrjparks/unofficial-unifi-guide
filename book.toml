@@ -1,5 +1,6 @@
 [book]
 authors = ["James Parks"]
+description = "Documenting my learning about UniFi"
 language = "en"
 multilingual = false
 src = "src"
